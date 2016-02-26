@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Providers;
+namespace Lat\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Legacy\View\ThemeViewFinder;
+use Lat\View\ThemeViewFinder;
 
 class AppServiceProvider extends ServiceProvider
 {

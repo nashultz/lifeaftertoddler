@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Lat\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
+use Lat\Http\Requests;
+use Lat\Http\Controllers\Controller;
 
 class HomeController extends Controller
 {

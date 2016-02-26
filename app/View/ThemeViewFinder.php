@@ -1,6 +1,6 @@
 <?php
 
-namespace Legacy\View;
+namespace Lat\View;
 
 use Illuminate\View\FileViewFinder;
 
