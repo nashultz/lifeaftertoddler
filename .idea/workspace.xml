@@ -21,12 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThemeViewFinder.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/View/ThemeViewFinder.php">
+      <file leaf-file-name="AppServiceProvider.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21638075">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
+            <state vertical-scroll-proportion="0.35749862">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#33#72#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +46,8 @@
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/config/cms.php" />
         <option value="$PROJECT_DIR$/app/Libraries/helpers.php" />
-        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/app/View/ThemeViewFinder.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
       </list>
     </option>
   </component>
@@ -651,27 +653,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3198672">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-          <folding>
-            <marker date="1456455557542" expanded="true" signature="122:824" placeholder="{...}" />
-            <marker date="1456455557542" expanded="true" signature="132:208" placeholder=" Bootstrap any application services. ..." />
-            <marker date="1456455557542" expanded="true" signature="237:316" placeholder="{...}" />
-            <marker date="1456455557542" expanded="true" signature="325:400" placeholder=" Register any application services. ..." />
-            <marker date="1456455557542" expanded="true" signature="433:822" placeholder="{...}" />
-            <marker date="1456455557542" expanded="true" signature="470:814" placeholder="..." />
-            <marker date="1456455557542" expanded="true" signature="501:813" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/View/ThemeViewFinder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21638075">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1456455617453" expanded="true" signature="112:381" placeholder="{...}" />
+            <marker date="1456455617453" expanded="true" signature="199:232" placeholder="{...}" />
+            <marker date="1456455617453" expanded="true" signature="273:379" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35749862">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#72#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

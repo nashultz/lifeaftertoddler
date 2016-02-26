@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Legacy\View\ThemeViewFinder;
 
 class AppServiceProvider extends ServiceProvider
 {
