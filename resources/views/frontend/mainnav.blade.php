@@ -12,7 +12,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="{{route('site.home')}}" title="Home">Home</a></li>
                 <li><a href="#" title="Our Properties">Projects</a></li>
-                {-- include('partials.navigation') --}
+                {{-- include('partials.navigation') --}}
                 <!--<li><a href="#{{--route('site.agents')--}}" title="Meet Our Team">Our Agents</a></li>
                 <li><a href="#" title="Get in Touch">Contact Us</a></li>-->
             </ul>
