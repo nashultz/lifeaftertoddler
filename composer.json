@@ -20,7 +20,10 @@
         ],
         "psr-4": {
             "Lat\\": "app/"
-        }
+        },
+        "files": [
+          "app/Libraries/helpers.php"
+        ]
     },
     "autoload-dev": {
         "classmap": [

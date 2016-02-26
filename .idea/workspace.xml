@@ -21,14 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppServiceProvider.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35749862">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="e#33#72#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.2257886">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,6 +46,7 @@
         <option value="$PROJECT_DIR$/app/Libraries/helpers.php" />
         <option value="$PROJECT_DIR$/app/View/ThemeViewFinder.php" />
         <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -619,29 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456455981995" expanded="true" signature="0:1221" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
-            <marker date="1456455981995" expanded="true" signature="180:250" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
-            <marker date="1456455981995" expanded="true" signature="271:419" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
-            <marker date="1456455981995" expanded="true" signature="437:557" placeholder="{...}" />
-            <marker date="1456455981995" expanded="true" signature="459:493" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="512:551" placeholder="{&quot;App\&quot;: &quot;app/&quot;...}" />
-            <marker date="1456455981995" expanded="true" signature="579:651" placeholder="{...}" />
-            <marker date="1456455981995" expanded="true" signature="601:645" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="668:1101" placeholder="{...}" />
-            <marker date="1456455981995" expanded="true" signature="698:786" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="815:903" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="942:1008" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="1045:1095" placeholder="[...]" />
-            <marker date="1456455981995" expanded="true" signature="1117:1160" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Libraries/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08467072">
@@ -670,8 +646,23 @@
         <state vertical-scroll-proportion="0.35749862">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <element signature="e#33#72#0#PHP" expanded="true" />
+            <marker date="1456455981932" expanded="true" signature="37:102" placeholder="..." />
+            <marker date="1456455981932" expanded="true" signature="152:854" placeholder="{...}" />
+            <marker date="1456455981932" expanded="true" signature="162:238" placeholder=" Bootstrap any application services. ..." />
+            <marker date="1456455981932" expanded="true" signature="267:346" placeholder="{...}" />
+            <marker date="1456455981932" expanded="true" signature="355:430" placeholder=" Register any application services. ..." />
+            <marker date="1456455981932" expanded="true" signature="463:852" placeholder="{...}" />
+            <marker date="1456455981932" expanded="true" signature="500:844" placeholder="..." />
+            <marker date="1456455981932" expanded="true" signature="531:843" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2257886">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
