@@ -8346,7 +8346,7 @@ body {
 }
 
 header {
-  background: #800F01;
+  background: #ffffff;
 }
 
 #logo img {
@@ -8354,7 +8354,7 @@ header {
 }
 
 #logo h1 {
-  color: #d3ab65;
+  color: #444444;
   display: inline-block;
   padding: 0 0 0 10px;
   line-height: 50px;
