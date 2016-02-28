@@ -11095,9 +11095,14 @@ header {
   position: relative;
   font-size: 80%;
   /* IE 9 */
-  -webkit-transform: rotate(45deg);
+  -webkit-transform: rotate(330deg);
   /* Chrome, Safari, Opera */
-  transform: rotate(45deg);
+  transform: rotate(330deg);
+}
+
+:root .after {
+  -webkit-filter: none;
+  filter: none;
 }
 
 .red {

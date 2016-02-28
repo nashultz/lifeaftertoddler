@@ -54,9 +54,13 @@ header {
 .after {
   position: relative;
   font-size: 80%;
-  -ms-transform: rotate(45deg); /* IE 9 */
-  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
-  transform: rotate(45deg);
+  -ms-transform: rotate(330deg); /* IE 9 */
+  -webkit-transform: rotate(330deg); /* Chrome, Safari, Opera */
+  transform: rotate(330deg);
+}
+:root .after {
+  -webkit-filter: none;
+  filter: none;
 }
 .red {
   color: #ff0000;
