@@ -52,10 +52,12 @@ header {
   line-height: 50px;
 }
 .after {
-  text-rendering: auto;
-  -ms-transform: rotate(330deg); /* IE 9 */
-  -webkit-transform: rotate(330deg); /* Chrome, Safari, Opera */
-  transform: rotate(330deg);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.86602540, M12=0.50000000, M21=-0.50000000, M22=0.86602540,sizingMethod='auto expand')";
+  filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.86602540, M12=0.50000000, M21=-0.50000000, M22=0.86602540,sizingMethod='auto expand');
+  -moz-transform:  matrix(0.86602540, -0.50000000, 0.50000000, 0.86602540, 0, 0);
+  -webkit-transform:  matrix(0.86602540, -0.50000000, 0.50000000, 0.86602540, 0, 0);
+  -o-transform:  matrix(0.86602540, -0.50000000, 0.50000000, 0.86602540, 0, 0);
+  transform:  matrix(0.86602540, -0.50000000, 0.50000000, 0.86602540, 0, 0);
 }
 :root .after {
   -webkit-filter: none;
