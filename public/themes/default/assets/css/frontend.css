@@ -11093,8 +11093,6 @@ header {
 
 .after {
   text-rendering: auto;
-  position: relative;
-  font-size: 80%;
   /* IE 9 */
   -webkit-transform: rotate(330deg);
   /* Chrome, Safari, Opera */
