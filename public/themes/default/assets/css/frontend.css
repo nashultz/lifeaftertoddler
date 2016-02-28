@@ -11091,6 +11091,11 @@ header {
   line-height: 50px;
 }
 
+#logo {
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
 .after {
   -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.86602540, M12=0.50000000, M21=-0.50000000, M22=0.86602540,sizingMethod='auto expand')";
   filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.86602540, M12=0.50000000, M21=-0.50000000, M22=0.86602540,sizingMethod='auto expand');
