@@ -47,7 +47,7 @@
     <header>
         <div class="container">
             <div id="logo" class="col-md-6">
-                <h1>Life <span class="after">after</span> Tod<span class="fa fa-rotate-90">d</span>ler</h1>
+                <img src="{{theme('img/logo.png')}}">
             </div>
             <div class="col-md-6">
 
