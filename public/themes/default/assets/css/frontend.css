@@ -11048,7 +11048,7 @@ body {
 }
 
 .topMenu {
-  background: #444444;
+  background: rgba(189, 195, 199,1.0);
   min-height: 35px;
 }
 
