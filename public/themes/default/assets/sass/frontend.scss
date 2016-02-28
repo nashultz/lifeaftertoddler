@@ -52,6 +52,7 @@ header {
   line-height: 50px;
 }
 .after {
+  text-rendering: auto;
   position: relative;
   font-size: 80%;
   -ms-transform: rotate(330deg); /* IE 9 */
