@@ -64,7 +64,7 @@
             <div class="col-md-12">
                 <div class="col-md-4">
                     <div class="legacy-info">
-                        <h3 class="col-lg-8"><img class="img-responsive" src="{{theme('img/logo.png')}}"></h3>
+                        <h3>Life After Toddler</h3>
                         <div class="legacy-location">
                             <!--<li class=""><i class="fa fa-fw fa-map-marker"></i> 2115 Washington Ave</li>
                             <li class=""><i class="fa fa-fw"></i> Suite D</li>
