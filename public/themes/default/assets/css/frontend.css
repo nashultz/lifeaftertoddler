@@ -8362,11 +8362,12 @@ header {
 }
 
 .after {
+  position: relative;
   font-size: 80%;
   /* IE 9 */
-  -webkit-transform: rotate(330deg);
+  -webkit-transform: rotate(45deg);
   /* Chrome, Safari, Opera */
-  transform: rotate(330deg);
+  transform: rotate(45deg);
 }
 
 .red {
