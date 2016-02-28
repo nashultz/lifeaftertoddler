@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/public/themes/default/views/layouts/frontend.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.46098506">
-              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -5341,8 +5341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/default/assets/sass/frontend.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5252809">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.42977527">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
             <marker date="1456637072300" expanded="true" signature="57:95" placeholder="{...}" />
             <marker date="1456637072300" expanded="true" signature="101:240" placeholder="{...}" />
@@ -5457,7 +5457,7 @@
     <entry file="file://$PROJECT_DIR$/public/themes/default/views/layouts/frontend.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46098506">
-          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding />
         </state>
       </provider>

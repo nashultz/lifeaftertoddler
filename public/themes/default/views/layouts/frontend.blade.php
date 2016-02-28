@@ -47,7 +47,7 @@
     <header>
         <div class="container">
             <div id="logo" class="col-md-6">
-                <img src="{{theme('img/logo.png')}}">
+                <img class="img-responsive" src="{{theme('img/logo.png')}}">
             </div>
             <div class="col-md-6">
 
