@@ -11092,6 +11092,7 @@ header {
 }
 
 .after {
+  text-rendering: auto;
   position: relative;
   font-size: 80%;
   /* IE 9 */
