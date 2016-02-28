@@ -48,7 +48,7 @@
     <header>
         <div class="container">
             <div id="logo" class="col-md-6">
-                <h1>Life <span class="after">after</span> Tod<span class="rotate-cw-30">d</span>ler</h1>
+                <h1>Life <span class="after">after</span> Tod<span class="fa fa-rotate-90">d</span>ler</h1>
             </div>
             <div class="col-md-6">
 
